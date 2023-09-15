@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning coding for Data Visualization, Analysis and Interpretation
 - 📫 Here's my socials : 
         - https://www.linkedin.com/in/divith-narendra-626482170/
-        - https://www.instagram.com/krippled_kombucha/
         - https://www.youtube.com/channel/UCkfuZdDAjxMCLf0HghVEq9g
 - 🌱 I’m currently learning and perfecting my skills in Python.
 - 🍦 Love Data SScience and am very keen on trying to develop relevant datasets for such endeavours. 
