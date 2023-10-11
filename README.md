@@ -4,10 +4,9 @@
         - https://www.linkedin.com/in/divith-narendra-626482170/
         - https://www.youtube.com/channel/UCkfuZdDAjxMCLf0HghVEq9g
 - 🌱 I’m currently learning and perfecting my skills in Python.
-- 🍦 Love Data SScience and am very keen on trying to develop relevant datasets for such endeavours. 
+- 🍦 Love Data science and am very keen on trying to develop relevant datasets for such endeavors. 
 - 💞️ I’m looking to collaborate on developing 2D Platformers and 3D Design on Unreal Engine and Blender. 
-- 🐓 I've started learning Flutter but it really is difficult trying to juggle both my academics, YT Channel and extra projects!!!! 
-- 🌟 Started working on AoC to hone my skills even more!!!
+- 🐓 I've started learning Flutter and NLP, to develop products to assist in understanding low-level languages better. 
 - 📚 Currently working on learning and picking up skills to try to develop my learning and apply. 
 
 
